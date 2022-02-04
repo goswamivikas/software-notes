@@ -6,4 +6,4 @@ These notes are for quick revision purposes and assume basic understanding of da
 
 ## Index
 
-- [Data Structures](VData%20Structures%206494dc3a9f414d0894191af920916a89.md)
+- [Data Structures](Data%20Structures%206494dc3a9f414d0894191af920916a89.md)
